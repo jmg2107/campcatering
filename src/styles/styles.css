@@ -21,5 +21,8 @@ video {
 .content__heading {
   margin-bottom: 24px;
   color: rgb(255, 153, 102);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
   font-size: 44px;
+  text-align: left;
 }
